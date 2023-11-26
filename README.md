@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad Reza Parvanak
-- 👀 I’m interested in music, painting, gardening, Travel, Books and Literature
+- 👀 I’m interested in music, painting, gardening, Travel, Books 
 - 🌱 I’m currently learning Kubernetes, cloud computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me a.parvanak@gmail.com
